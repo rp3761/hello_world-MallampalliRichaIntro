@@ -1,0 +1,3 @@
+Hi! My name is Richa Mallampalli, and I am a current senior at NYU. I'm majoring in Economics and minoring in Data Science as well as the Business of Entertainment, Media, & Technology.
+I've mainly worked with Python for past data science and computer science classes, and I used libraries like pandas, NumPy, scikit-learn, and Matplotlib for data analysis and modeling. 
+A project that I've completed that I'm proud of is my Capstone project that I created for Principles of Data Science II. I built a Random Forest classification model to accurately predict the genre of a Spotify song using different audio characteristics such as genre, key, etc. This project involved data cleaning and splitting, handling mixed feature types, and applying PCA for dimensionality reduction.
